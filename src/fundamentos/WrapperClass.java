@@ -15,8 +15,8 @@ public class WrapperClass {
 
         Integer i = Integer.parseInt("1234");
         System.out.println(i);
-        System.out.println("Digite o proximo numero: ");
 
+        System.out.println("Digite o proximo numero: ");
         Integer i2 = Integer.parseInt(teclado.next());
         System.out.println(i2);
 

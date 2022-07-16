@@ -33,11 +33,11 @@ public class DesafioOperadoresLogicos {
         if (b1 || b2) {
             if (b1 && b2) {
                 System.out.println("Voce comprou a tv de 50 polegadas.");
-                System.out.println("Voce levou sua familia recebeu +5 de felicidade " +
+                System.out.println("Voce levou sua familia ao shopping recebeu +5 de felicidade " +
                         "e perdeu -1 de saude por ter tomado sorvete");
             } else {
                 System.out.println("Voce comprou a tv de 32 polegadas.");
-                System.out.println("Voce levou sua familia recebeu +5 de felicidade " +
+                System.out.println("Voce levou sua familia ao shopping recebeu +5 de felicidade " +
                         "e perdeu -1 de saude por ter tomado sorvete");
             }
         } else System.out.println("Voce nao comprou a televisao e sua familia nao tomou sorvete, " +

@@ -3,7 +3,7 @@ package fundamentos;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class DesafioConversao {
+public class Conversoes {
     public static void main(String[] args) {
         Locale.setDefault(new Locale("en", "us"));
         Scanner teclado = new Scanner(System.in);
